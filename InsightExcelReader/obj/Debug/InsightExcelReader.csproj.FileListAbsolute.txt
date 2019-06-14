@@ -1,0 +1,8 @@
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\obj\Debug\InsightExcelReader.csprojAssemblyReference.cache
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\obj\Debug\InsightExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\bin\Debug\InsightExcelReader.exe.config
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\bin\Debug\InsightExcelReader.exe
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\bin\Debug\InsightExcelReader.pdb
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\obj\Debug\InsightExcelReader.exe
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\obj\Debug\InsightExcelReader.pdb
+C:\Users\mruch\source\repos\InsightExcelReader\InsightExcelReader\obj\Debug\InsightExcelReader.csproj.ResolveComReference.cache
