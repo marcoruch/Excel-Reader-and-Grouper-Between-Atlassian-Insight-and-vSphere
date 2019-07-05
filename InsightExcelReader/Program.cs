@@ -49,7 +49,12 @@ namespace InsightExcelReader
                Console.WriteLine(infos.First().BillableItem.Firma);
                foreach (var mergedServerInfo in infos)
                {
-                   Console.WriteLine("Server: "+ mergedServerInfo.VCenterItem.Name + " - " + mergedServerInfo.VCenterItem.CPUs);
+                   StringBuilder sb = new StringBuilder()
+                       .Append("Server: ").Append(mergedServerInfo.VCenterItem.Name)
+                       .Append(", IP: ").Append(mergedServerInfo.VCenterItem.IPAddress)
+                       .Append(", CPU's: ").Append(mergedServerInfo.VCenterItem.CPUs)
+                       .Append(", RAM: ").Append(mergedServerInfo.VCenterItem.Arbeitsspeichergroesse); ;
+                   Console.WriteLine(sb.ToString());
                }
 
 
@@ -158,7 +163,7 @@ namespace InsightExcelReader
         {
             return new Dictionary<string, string>
             {
-                {"XMPL", "EXAMPLE"},
+                {"XMPL", "Example" }
             };
 
         }
